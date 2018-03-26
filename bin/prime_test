@@ -1,0 +1,2 @@
+require_relative "../lib/learn_co_solution.rb"
+require_relative "../lib/final_test.rb"
